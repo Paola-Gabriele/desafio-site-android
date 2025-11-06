@@ -1,7 +1,4 @@
-# 🧩 Desafio - Site - Android  
-Projeto do Curso de HTML5 e CSS3 do **Curso em Vídeo**
-
----
+# 🧩 Desafio - Site - Android
 
 ## ✅ Objetivo do Repositório
 
